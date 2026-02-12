@@ -1,6 +1,6 @@
 <!-- ===== HEADER BANNER ===== -->
  <p align="center">
-      <img alt="GIF" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif">
+      <img alt="GIF" src="./mario.gif">
 </p>
 
 <!-- ===== TYPING EFFECT ===== -->
