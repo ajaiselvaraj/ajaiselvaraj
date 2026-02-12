@@ -47,64 +47,54 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaiselvaraj&show_icons=true&theme=tokyonight&border_radius=12" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaiselvaraj&theme=tokyonight&border_radius=12" height="170"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaiselvaraj&layout=compact&theme=tokyonight&border_radius=12"/>
+  <img src="https://streak-stats.demolab.com?user=ajaiselvaraj&theme=tokyonight&hide_border=true&background=0D1117&ring=00E6FF&fire=00E6FF&currStreakLabel=00E6FF&border_radius=12" height="170"/>
 </p>
 
 ---
-
 # 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajaiselvaraj&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://img.shields.io/badge/SMART%20INDIA%20HACKATHON%202025-WINNER-FFD700?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 </p>
 
----
-
-# 📈 Activity Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajaiselvaraj&theme=tokyo-night" />
+  🥇 <b>Winner – Smart India Hackathon 2025 (SIH'25)</b>
 </p>
-
 ---
 
-# 🐍 Contribution Snake
+# 👀 Profile Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ajaiselvaraj/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajaiselvaraj&label=Profile%20Views&color=00E6FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ajaiselvaraj&label=Profile+Views&color=00E6FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/ajaiselvaraj?label=Followers&style=for-the-badge&color=00E6FF" />
+  <img src="https://img.shields.io/github/stars/ajaiselvaraj?label=Total%20Stars&style=for-the-badge&color=00E6FF" />
 </p>
 
 ---
 
 # 🤝 Connect With Me
 
-<p>
+<p align="center">
 <a href="https://github.com/ajaiselvaraj">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
+
+<a href="https://www.linkedin.com/in/ajaiselvaraj-">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
+
 
 ---
 
 # 💬 Developer Quote
 
-> *Code + Design + Creativity = Premium Digital Experience*
+ > *Code. Design. Create. Repeat.*
+
 
 ---
 
