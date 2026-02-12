@@ -17,8 +17,6 @@
 - 🎨 Video Editor & Graphic Designer  
 - 🚀 Building real-world AI & Web Applications  
 - 🏗️ Projects: AAZHI Smart Helpdesk, AI Travel Planner  
-- 🎯 Goal: Become a Professional Full Stack Developer  
-
 ---
 
 # ⚡ Tech Stack
