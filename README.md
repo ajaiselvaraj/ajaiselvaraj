@@ -1,12 +1,26 @@
 <!-- ===== HEADER BANNER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1f1f1f,100:434343&height=220&section=header&text=AJAI%20SELVARAJ&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+ <p align="center">
+      <img alt="GIF" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif">
 </p>
 
 <!-- ===== TYPING EFFECT ===== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=26&duration=3000&color=00E6FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Vite;UI%2FUX+Designer;Building+Apple-Style+Interfaces;Future+Full+Stack+Engineer" />
+<p align="center" style="color:#00E6FF;">
+
+<pre>
+                     █████╗      ██╗ █████╗ ██╗    ███████╗███████╗██╗    ██╗   ██╗ █████╗ ██████╗  █████╗      ██╗
+                    ██╔══██╗     ██║██╔══██╗██║    ██╔════╝██╔════╝██║    ██║   ██║██╔══██╗██╔══██╗██╔══██╗     ██║
+                    ███████║     ██║███████║██║    ███████╗█████╗  ██║    ██║   ██║███████║██████╔╝███████║     ██║
+                    ██╔══██║██   ██║██╔══██║██║    ╚════██║██╔══╝  ██║    ╚██╗ ██╔╝██╔══██║██╔══██╗██╔══██║██   ██║
+                    ██║  ██║╚█████╔╝██║  ██║██║    ███████║███████╗███████╗╚████╔╝ ██║  ██║██║  ██║██║  ██║╚█████╔╝
+                    ╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝╚═╝    ╚══════╝╚══════╝╚══════╝ ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
+</pre>
+
 </p>
+
+
+<h3 align="center">
+SIH 2025 Winner | Frontend Developer | React | TypeScript
+</h3>
 
 ---
 
@@ -78,14 +92,13 @@
 
 # 🤝 Connect With Me
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/ajaiselvaraj">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
-
-<a href="https://www.linkedin.com/in/ajaiselvaraj-">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br>
+<a href="https://www.linkedin.com/in/ajaiselvaraj-" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhardik003" height="30" width="40" /></a>
 </p>
 
 
@@ -100,5 +113,5 @@
 
 <!-- ===== FOOTER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,50:1f1f1f,100:000000&height=140&section=footer"/>
+      <img alt="GIF" src="">
 </p>
