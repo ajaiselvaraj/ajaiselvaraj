@@ -64,8 +64,16 @@ SIH 2025 Winner | Frontend Developer | React | TypeScript
 # 📊 GitHub Statistics
 
 <p align="center">
-
   <img src="https://streak-stats.demolab.com?user=ajaiselvaraj&theme=tokyonight&hide_border=true&background=0D1117&ring=00E6FF&fire=00E6FF&currStreakLabel=00E6FF&border_radius=12" height="170"/>
+</p>
+
+<!-- ===== SNAKE ANIMATION ===== -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajaiselvaraj/ajaiselvaraj/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajaiselvaraj/ajaiselvaraj/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ajaiselvaraj/ajaiselvaraj/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
