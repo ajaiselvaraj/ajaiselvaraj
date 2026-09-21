@@ -174,14 +174,12 @@ Developed an **AI/ML-based Digital Twin solution for EHV Substations** under the
 </p>
 
 ---
+🕹️ Pac-Man Eats My Contributions!
+<p align="center"> <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph"/> </p>
+
+---
 
 # 🐍 Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajaiselvaraj/ajaiselvaraj/output/github-contribution-grid-pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajaiselvaraj/ajaiselvaraj/output/github-contribution-grid-pacman.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ajaiselvaraj/ajaiselvaraj/output/github-contribution-grid-pacman.svg">
-</picture>
-
 <p align="center">
   <picture>
     <source
