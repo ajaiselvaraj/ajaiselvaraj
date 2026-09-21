@@ -23,7 +23,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           games: "pacman"
           outputs: |
-            dist/pacman-contribution-graph.svg?palette=github-dark&color_bg=black
+            dist/pacman-contribution-graph.svg?palette=github-dark&color_bg=%230D1117
 
       - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
