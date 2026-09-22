@@ -174,7 +174,7 @@ Developed an **AI/ML-based Digital Twin solution for EHV Substations** under the
 </p>
 
 ---
-🕹️ Pac-Man Eats My Contributions!
+# 🕹️ Pac-Man Eats My Contributions!
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/ajaiselvaraj/ajaiselvaraj/pacman-output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph"/> 
 </p>
